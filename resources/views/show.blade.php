@@ -1,4 +1,4 @@
-@extends('structure.head', ["menu_active" => "vagas"])
+@extends('structure.head', ["menu_active" => "home"])
 
 @section('titulo', 'Vaga')
 
